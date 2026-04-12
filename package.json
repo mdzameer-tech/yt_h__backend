@@ -1,0 +1,17 @@
+{
+  "name": "yt_h__backend",
+  "version": "1.0.0",
+  "description": "doing backend with hitest (effortful hours - is what i measure my time and happiness with)",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "M D Zameer Hussain",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
